@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.3.1)  26 SEP 2026 16:40
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.3.1)  26 SEP 2026 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume.tex
-(./resume.tex
+**english_cv.tex
+(./english_cv.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./russell.cls
@@ -483,8 +483,8 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 70.
 
-(./resume.aux)
-\openout1 = `resume.aux'.
+No file english_cv.aux.
+\openout1 = `english_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -506,7 +506,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -701,19 +700,19 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 5.
 )
 
-[2] (./resume.aux)
+[2] (./english_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19912 strings out of 475366
- 369337 string characters out of 5762340
- 937531 words of memory out of 5000000
- 42548 multiletter control sequences out of 15000+600000
+ 19909 strings out of 475366
+ 369328 string characters out of 5762340
+ 937560 words of memory out of 5000000
+ 42547 multiletter control sequences out of 15000+600000
  561681 words of font info for 131 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 101i,11n,122p,564b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,11n,122p,568b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume.pdf (2 pages).
+Output written on english_cv.pdf (2 pages).

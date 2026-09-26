@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.3.1)  26 SEP 2026 16:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.3.1)  26 SEP 2026 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume_tr.tex
-(./resume_tr.tex
+**turkish_cv.tex
+(./turkish_cv.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./russell.cls
@@ -483,8 +483,8 @@ File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 40.
 
-No file resume_tr.aux.
-\openout1 = `resume_tr.aux'.
+No file turkish_cv.aux.
+\openout1 = `turkish_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -665,7 +665,7 @@ Overfull \hbox (1.02791pt too wide) in alignment at lines 10--21
 
 )
 
-[2] (./resume_tr.aux)
+[2] (./turkish_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -673,11 +673,11 @@ L3 programming layer <2025-01-18>
  ) 
 Here is how much of TeX's memory you used:
  19907 strings out of 475366
- 369349 string characters out of 5762340
- 938561 words of memory out of 5000000
+ 369358 string characters out of 5762340
+ 938564 words of memory out of 5000000
  42545 multiletter control sequences out of 15000+600000
  561681 words of font info for 131 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 101i,11n,122p,567b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,11n,122p,568b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume_tr.pdf (2 pages).
+Output written on turkish_cv.pdf (2 pages).
