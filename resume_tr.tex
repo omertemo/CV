@@ -1,0 +1,65 @@
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{russell}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+\colorlet{russell}{russell-black}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Ömer}{Çayır}
+
+\position{Veri Mühendisi{\enskip\cdotp\enskip}Gerçek Zamanlı Sistemler \& Backend Uzmanı}
+
+\address{İSTANBUL}
+
+\mobile{+90 552 279 93 47}
+\email{omercayirtemo@gmail.com}
+\homepage{omertemo.github.io}
+\github{github.com/omertemo}
+\linkedin{linkedin.com/in/omercayir01}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+\makecvfooter
+  {\today}
+  {}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+\input{cv_tr/education.tex}
+\input{cv_tr/experience.tex}
+\input{cv_tr/projects.tex}
+\input{cv_tr/skills.tex}
+\newpage
+\input{cv_tr/certificates.tex}
+\input{cv_tr/languages.tex}
+
+\vspace*{\fill}
+%-------------------------------------------------------------------------------
+\end{document}
